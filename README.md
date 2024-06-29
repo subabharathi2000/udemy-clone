@@ -3,7 +3,7 @@
 This project is a clone of the popular online learning platform, Udemy. It has been created using HTML and CSS, showcasing a user-friendly and responsive design that mimics the essential features and layout of the original Udemy website. This project is intended to demonstrate my skills in front-end web development.
 
 ## Features
-- Responsive Design: Ensures the website looks great on all devices, including desktops, tablets, and mobile phones.
+- Responsive Design: Ensures the website looks great on different Screen sizes.
 - Course Listings: Displays courses with details such as title, instructor, rating, and price.
 - Course Detail Page: Provides detailed information about a specific course, including an overview, curriculum, and instructor bio.
 - Navigation Bar: Includes links to various sections of the website, such as Home, Courses, and Contact.
